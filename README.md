@@ -6,7 +6,7 @@ It defines a goal named "certgen" in "building resources" lifecycle.
 
 To use it you can add following lines to the target project pom.xml:
 
-			  <plugin>
+	    <plugin>
                 <groupId>it.vinicioflamini</groupId>
                 <artifactId>certificate-generation-maven-plugin</artifactId>
                 <version>0.0.1-SNAPSHOT</version>
